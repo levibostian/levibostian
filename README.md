@@ -18,8 +18,8 @@ These projects are projects that contain a large amount of contributions from my
 
 One of my favorite parts of open source development is opportunity to share ideas and offer help with projects that you love. I have been active in a few communities over the years that received some fun recognition I am proud of: 
 
-\- **Realm.io MVP member** - 1 of 12 members in world to be recognized from using the Realm mobile database SDKs and offering help to the community. 
-\- Profiled in **[Fabric.io (Twitter)](https://www.dropbox.com/s/flpc6ct5iv2yklz/Fabric%20Blog%20%7C%20Build.%20Understand.%20Grow..pdf?dl=0) & [Red Hat's opensource.com](https://opensource.com/life/14/7/my-open-source-world)**
+- **Realm.io MVP member** - 1 of 12 members in world to be recognized from using the Realm mobile database SDKs and offering help to the community. 
+- Profiled in **[Fabric.io (Twitter)](https://www.dropbox.com/s/flpc6ct5iv2yklz/Fabric%20Blog%20%7C%20Build.%20Understand.%20Grow..pdf?dl=0) & [Red Hat's opensource.com](https://opensource.com/life/14/7/my-open-source-world)**
 
 # Shout-outs! 
 
