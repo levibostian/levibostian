@@ -27,7 +27,7 @@ Although these projects may not be projects I continuously come back to work on,
 
 - [dollabill](https://github.com/levibostian/dollabill-apple) - *Easily* integrate your backend server with Apple in-app purchases. I created this tool after spending countless hours learning StoreKit and writing the backend code to verify transactions and enable renewable subscriptions for an app. This tool would have cut my time and stress to a fraction. 
 
-- [I love writing GitHub Actions](https://github.com/levibostian?tab=repositories&q=action) and [plugins for semantic-release](https://github.com/levibostian?tab=repositories&q=semantic-release)! Any of those are fun little projects. 
+- [I love writing GitHub Actions](https://github.com/levibostian?tab=repositories&q=github+action) and [plugins for semantic-release](https://github.com/levibostian?tab=repositories&q=semantic-release)! Any of those are fun little projects. 
 
 - [Automated code signing maintenance for all of our iOS apps](https://github.com/customerio/apple-code-signing) - Tool that provides all developers and CI servers code signing files they need to sign iOS apps. All files protected behind Google authentication and files automatically renewed every 6 months to keep unblocked. 
 
