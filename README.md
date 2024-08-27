@@ -10,11 +10,11 @@ If you want to hear the full story, I was [profiled in Red Hat's opensource.com]
 
 These projects are projects that contain a large amount of contributions from myself: 
 
-- [LearnXInYMinutes.com](https://github.com/adambard/learnxinyminutes-docs) (2013-2015)
+- [LearnXInYMinutes.com](https://github.com/adambard/learnxinyminutes-docs) - Core contributor and maintainer (2013-2015)
 - Customer.io mobile SDKs - [iOS](https://github.com/customerio/customerio-ios/), [Android](https://github.com/customerio/customerio-android/), [React Native](https://github.com/customerio/customerio-reactnative), [Flutter](https://github.com/customerio/customerio-flutter/), [Expo](https://github.com/customerio/customerio-expo-plugin/) (2021-2024)
 - SDKs to help app developers build offline-first mobile apps: 
-  - Wendy - [iOS](https://github.com/levibostian/wendy-ios), [Android](https://github.com/levibostian/wendy-android)
-  - Teller - [iOS](https://github.com/levibostian/teller-ios), [Android](https://github.com/levibostian/teller-android)
+  - Wendy [iOS](https://github.com/levibostian/wendy-ios), [Android](https://github.com/levibostian/wendy-android) - Sync offline data from your app to a network API. 
+  - Teller [iOS](https://github.com/levibostian/teller-ios), [Android](https://github.com/levibostian/teller-android) - Get and cache data from a network API. 
 
 One of my favorite parts of open source development is opportunity to share ideas and offer help with projects that you love. I have been active in a few communities over the years that received some fun recognition I am proud of: 
 
